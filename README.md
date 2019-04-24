@@ -1,5 +1,5 @@
 # zsh
-common oh my zsh aliases
+#### common oh my zsh aliases
 
 | Alias   | Command                               |
 |:--------|:--------------------------------------|
@@ -11,7 +11,7 @@ common oh my zsh aliases
 | /       | cd /                                  |
 | ~       | cd ~                                  |
 
-## Git
+### Git
 
 | Alias                  | Command                                                                           |
 |:-----------------------|:----------------------------------------------------------------------------------|
